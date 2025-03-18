@@ -1,0 +1,92 @@
+/** @format */
+
+//
+// user.scss
+// Use this to write your custom SCSS
+//
+$skillsbuildingdark: #64c5a7 !default;
+$skillsbuildinglight: #ccf7e5 !default;
+
+$journals: #6ac2e1 !default;
+$checkins: #ee7391 !default;
+$intake: #8ba6a8 !default;
+$assessments: #7e8299 !default;
+$gold: #fbbc05 !default;
+
+$avatar-red: #e63757 !default;
+$urgent: $avatar-red !default;
+$delayed: #e7ac2b !default;
+$engaging: $primary !default;
+
+.icon-circle-skillsbuilding {
+	background-color: $skillsbuildinglight;
+}
+
+.icon-text-skillsbuilding {
+	background-color: $skillsbuildinglight;
+}
+
+.icon-circle-customassignment {
+	background-color: $gold;
+}
+
+//Avatar Icon - Status
+
+.avatar-engaging,
+.avatar-intake,
+.avatar-urgent,
+.avatar-offline {
+	&::before {
+		content: "";
+		position: absolute;
+		bottom: 5%;
+		right: 5%;
+		width: 20%;
+		height: 20%;
+		border-radius: 50%;
+	}
+
+	.avatar-img {
+		mask-image: url(#{$path-to-img}/masks/avatar-status.svg);
+		mask-size: 100% 100%;
+	}
+}
+
+.avatar-urgent::before {
+	background-color: $urgent;
+}
+
+.avatar-offline::before {
+	background-color: $gray-500;
+}
+
+// LIST STYLING
+
+ul,
+ul.a {
+	list-style-type: circle;
+}
+
+ul.b {
+	list-style-type: square;
+}
+
+//unordered list - provides highlighting
+ul {
+	// background-color: rgb(250, 250, 250);
+	padding: 0px 10px;
+	list-style-type: none;
+	// border: 1px solid #7e8299;
+}
+
+ol {
+	padding-left: 2.5rem;
+}
+//main spacing between ordered lists
+li:not(:first-of-type) {
+	margin-top: 1.5em;
+}
+
+li:not(:last-of-type) {
+	margin-top: 1.5em;
+}

@@ -1,0 +1,23 @@
+/** @format */
+
+//
+// user-variables.scss
+// Use this to overwrite Bootstrap and theme variables
+//
+
+// Example of a variable override to change theme's background color
+// Remove the "//" to comment it in and see it in action!
+// $body-bg: #12263F;
+
+$purple: #ab9fc3 !default;
+$primary: $purple !default;
+
+// $skillsbuilding: #64c5a7 !default;
+// $journals: #6ac2e1 !default;
+// $checkins: #ee7391 !default;
+// $intake: #8ba6a8 !default;
+// $assessments: #7e8299 !default;
+// $gold: #FBBC05 !default;
+
+// _variables to set nav link thickness underlining current section
+$nav-tabs-link-active-border-width: 2px !default;

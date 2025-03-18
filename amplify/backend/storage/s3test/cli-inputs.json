@@ -1,0 +1,19 @@
+{
+  "resourceName": "s3test",
+  "policyUUID": "0c018d99",
+  "bucketName": "glassmindmvp7c5005dea3d58a49d0a9695edd8810cc85",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [],
+  "triggerFunction": "NONE",
+  "groupAccess": {
+    "SuperAdmin": [
+      "CREATE_AND_UPDATE",
+      "READ",
+      "DELETE"
+    ],
+    "GmAdmin": [
+      "READ"
+    ]
+  }
+}

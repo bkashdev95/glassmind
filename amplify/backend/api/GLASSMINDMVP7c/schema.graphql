@@ -1,0 +1,26 @@
+type User @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  created_at: String!
+  name: String!
+  email: String!
+  password: String!
+  phone: String
+  role: String
+}
+
+type Client @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  created_at: AWSTimestamp!
+  name: String!
+  birthdate: String!
+  status: String!
+  email: AWSEmail!
+  password: String!
+  phone: AWSPhone
+}
+
+type Company @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  name: String!
+  created_at: AWSTimestamp
+}

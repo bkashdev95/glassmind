@@ -1,0 +1,148 @@
+/** @format */
+
+export default [
+	{
+		id: "1",
+		imgSrc: "/img/svg/skills-building.svg",
+		title: "Skills Building | Mindfulness 101",
+		subtitle: "Anxiety reduction techniques.",
+		shortdesc:
+			"A set of six CBT based mindfulness exercises focusing on remaining centered and grounded.",
+		ttc: "20 minutes",
+		marketid: "Any",
+		tagid: "1",
+		score: 1,
+	},
+	{
+		id: "2",
+		imgSrc: "/img/svg/skillsBuilding.svg",
+		title: "Skills Building | Mindfulness 101",
+		subtitle: "Anxiety reduction techniques.",
+		shortdesc:
+			"A set of six CBT based mindfulness exercises focusing on remaining centered and grounded.",
+		ttc: "20 minutes",
+		marketid: "Any",
+		tagid: "1",
+		score: 1,
+	},
+	{
+		id: "3",
+		imgSrc: "/img/svg/skillsBuilding.svg",
+		title: "Skills Building | Mindfulness 101",
+		subtitle: "Anxiety reduction techniques.",
+		shortdesc:
+			"A set of six CBT based mindfulness exercises focusing on remaining centered and grounded.",
+		ttc: "20 minutes",
+		marketid: "Any",
+		tagid: "1",
+		score: 1,
+	},
+	{
+		id: "4",
+		imgSrc: "/img/svg/skillsBuilding.svg",
+		title: "Skills Building | Mindfulness 101",
+		subtitle: "Anxiety reduction techniques.",
+		shortdesc:
+			"A set of six CBT based mindfulness exercises focusing on remaining centered and grounded.",
+		ttc: "20 minutes",
+		marketid: "Any",
+		tagid: "1",
+		score: 1,
+	},
+	{
+		id: "5",
+		imgSrc: "/img/svg/skillsBuilding.svg",
+		title: "Skills Building | Mindfulness 101",
+		subtitle: "Anxiety reduction techniques.",
+		shortdesc:
+			"A set of six CBT based mindfulness exercises focusing on remaining centered and grounded.",
+		ttc: "20 minutes",
+		marketid: "Any",
+		tagid: "1",
+		score: 1,
+	},
+	{
+		id: "6",
+		imgSrc: "/img/svg/skillsBuilding.svg",
+		title: "Skills Building | Mindfulness 101",
+		subtitle: "Anxiety reduction techniques.",
+		shortdesc:
+			"A set of six CBT based mindfulness exercises focusing on remaining centered and grounded.",
+		ttc: "20 minutes",
+		marketid: "Any",
+		tagid: "1",
+		score: 1,
+	},
+	{
+		id: "7",
+		imgSrc: "/img/svg/skillsBuilding.svg",
+		title: "Skills Building | Mindfulness 101",
+		subtitle: "Anxiety reduction techniques.",
+		shortdesc:
+			"A set of six CBT based mindfulness exercises focusing on remaining centered and grounded.",
+		ttc: "20 minutes",
+		marketid: "Any",
+		tagid: "1",
+		score: 1,
+	},
+	{
+		id: "8",
+		imgSrc: "/img/svg/skillsBuilding.svg",
+		title: "Skills Building | Mindfulness 101",
+		subtitle: "Anxiety reduction techniques.",
+		shortdesc:
+			"A set of six CBT based mindfulness exercises focusing on remaining centered and grounded.",
+		ttc: "20 minutes",
+		marketid: "Any",
+		tagid: "1",
+		score: 1,
+	},
+	{
+		id: "9",
+		imgSrc: "/img/svg/skillsBuilding.svg",
+		title: "Skills Building | Mindfulness 101",
+		subtitle: "Anxiety reduction techniques.",
+		shortdesc:
+			"A set of six CBT based mindfulness exercises focusing on remaining centered and grounded.",
+		ttc: "20 minutes",
+		marketid: "Any",
+		tagid: "1",
+		score: 1,
+	},
+	{
+		id: "10",
+		imgSrc: "/img/svg/skillsBuilding.svg",
+		title: "Skills Building | Mindfulness 101",
+		subtitle: "Anxiety reduction techniques.",
+		shortdesc:
+			"A set of six CBT based mindfulness exercises focusing on remaining centered and grounded.",
+		ttc: "20 minutes",
+		marketid: "Any",
+		tagid: "1",
+		score: 1,
+	},
+	{
+		id: "11",
+		imgSrc: "/img/svg/skillsBuilding.svg",
+		title: "Skills Building | Mindfulness 101",
+		subtitle: "Anxiety reduction techniques.",
+		shortdesc:
+			"A set of six CBT based mindfulness exercises focusing on remaining centered and grounded.",
+		ttc: "20 minutes",
+		marketid: "Any",
+		tagid: "1",
+		score: 1,
+	},
+	{
+		id: "12",
+		imgSrc: "/img/svg/skillsBuilding.svg",
+		title: "Skills Building | Mindfulness 101",
+		subtitle: "Anxiety reduction techniques.",
+		shortdesc:
+			"A set of six CBT based mindfulness exercises focusing on remaining centered and grounded.",
+		ttc: "20 minutes",
+		marketid: "Any",
+		tagid: "1",
+		score: 1,
+	},
+];

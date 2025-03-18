@@ -1,0 +1,48 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify9e7c02c7cc284-staging-144027-authRole",
+      "UnauthRoleArn": "arn:aws:iam::145610611151:role/amplify-amplify9e7c02c7cc284-staging-144027-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::145610611151:role/amplify-amplify9e7c02c7cc284-staging-144027-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify9e7c02c7cc284-staging-144027-deployment",
+      "UnauthRoleName": "amplify-amplify9e7c02c7cc284-staging-144027-unauthRole",
+      "StackName": "amplify-amplify9e7c02c7cc284-staging-144027",
+      "StackId": "arn:aws:cloudformation:us-east-1:145610611151:stack/amplify-amplify9e7c02c7cc284-staging-144027/99c53060-6f2a-11ed-b6f7-0a8814a35fbd",
+      "AmplifyAppId": "dlpqnloa1gfgq"
+    },
+    "categories": {
+      "auth": {
+        "glassmindmvp7c3d7fb5bc": {}
+      },
+      "api": {
+        "GLASSMINDMVP7c": {}
+      }
+    }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-glassmindmvp7c-prod-70843-authRole",
+      "UnauthRoleArn": "arn:aws:iam::473840100237:role/amplify-glassmindmvp7c-prod-70843-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::473840100237:role/amplify-glassmindmvp7c-prod-70843-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-glassmindmvp7c-prod-70843-deployment",
+      "UnauthRoleName": "amplify-glassmindmvp7c-prod-70843-unauthRole",
+      "StackName": "amplify-glassmindmvp7c-prod-70843",
+      "StackId": "arn:aws:cloudformation:us-east-1:473840100237:stack/amplify-glassmindmvp7c-prod-70843/3e8dcd10-7303-11ed-8a50-0e7c67f970e5",
+      "AmplifyAppId": "d2kxu0o9cwqxw7"
+    },
+    "categories": {
+      "auth": {
+        "glassmindmvp7c3d7fb5bc": {},
+        "userPoolGroups": {}
+      },
+      "api": {
+        "GLASSMINDMVP7c": {}
+      },
+      "storage": {
+        "s3test": {}
+      }
+    }
+  }
+}
